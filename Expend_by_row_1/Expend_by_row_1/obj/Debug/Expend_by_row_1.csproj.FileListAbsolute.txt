@@ -1,0 +1,9 @@
+c:\users\tayyab\documents\visual studio 2013\Projects\Expend_by_row_1\Expend_by_row_1\bin\Debug\Expend_by_row_1.exe.config
+c:\users\tayyab\documents\visual studio 2013\Projects\Expend_by_row_1\Expend_by_row_1\bin\Debug\Expend_by_row_1.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\Expend_by_row_1\Expend_by_row_1\bin\Debug\Expend_by_row_1.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\Expend_by_row_1\Expend_by_row_1\obj\Debug\Expend_by_row_1.csprojResolveAssemblyReference.cache
+c:\users\tayyab\documents\visual studio 2013\Projects\Expend_by_row_1\Expend_by_row_1\obj\Debug\Expend_by_row_1.Form1.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Expend_by_row_1\Expend_by_row_1\obj\Debug\Expend_by_row_1.Properties.Resources.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Expend_by_row_1\Expend_by_row_1\obj\Debug\Expend_by_row_1.csproj.GenerateResource.Cache
+c:\users\tayyab\documents\visual studio 2013\Projects\Expend_by_row_1\Expend_by_row_1\obj\Debug\Expend_by_row_1.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\Expend_by_row_1\Expend_by_row_1\obj\Debug\Expend_by_row_1.pdb

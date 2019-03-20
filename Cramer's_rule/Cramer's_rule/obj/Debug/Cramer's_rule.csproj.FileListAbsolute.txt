@@ -1,0 +1,18 @@
+c:\users\tayyab\documents\visual studio 2013\Projects\Cramer's_rule\Cramer's_rule\bin\Debug\Cramer's_rule.exe.config
+c:\users\tayyab\documents\visual studio 2013\Projects\Cramer's_rule\Cramer's_rule\bin\Debug\Cramer's_rule.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\Cramer's_rule\Cramer's_rule\bin\Debug\Cramer's_rule.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer's_rule.csprojResolveAssemblyReference.cache
+c:\users\tayyab\documents\visual studio 2013\Projects\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer_s_rule.Form1.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer_s_rule.Properties.Resources.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer's_rule.csproj.GenerateResource.Cache
+c:\users\tayyab\documents\visual studio 2013\Projects\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer's_rule.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer's_rule.pdb
+C:\Users\Tayyab\Desktop\Cramer's_rule\Cramer's_rule\bin\Debug\Cramer's_rule.exe.config
+C:\Users\Tayyab\Desktop\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer's_rule.exe
+C:\Users\Tayyab\Desktop\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer's_rule.pdb
+C:\Users\Tayyab\Desktop\Cramer's_rule\Cramer's_rule\bin\Debug\Cramer's_rule.exe
+C:\Users\Tayyab\Desktop\Cramer's_rule\Cramer's_rule\bin\Debug\Cramer's_rule.pdb
+C:\Users\Tayyab\Desktop\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer's_rule.csprojResolveAssemblyReference.cache
+C:\Users\Tayyab\Desktop\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer_s_rule.Form1.resources
+C:\Users\Tayyab\Desktop\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer_s_rule.Properties.Resources.resources
+C:\Users\Tayyab\Desktop\Cramer's_rule\Cramer's_rule\obj\Debug\Cramer's_rule.csproj.GenerateResource.Cache

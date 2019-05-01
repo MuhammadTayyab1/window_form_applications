@@ -1,0 +1,11 @@
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\bin\Debug\pdf.exe.config
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\bin\Debug\pdf.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\bin\Debug\pdf.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\bin\Debug\itextsharp.dll
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\bin\Debug\itextsharp.xml
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\obj\Debug\pdf.csprojResolveAssemblyReference.cache
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\obj\Debug\pdf.Form1.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\obj\Debug\pdf.Properties.Resources.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\obj\Debug\pdf.csproj.GenerateResource.Cache
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\obj\Debug\pdf.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\pdf\pdf\obj\Debug\pdf.pdb

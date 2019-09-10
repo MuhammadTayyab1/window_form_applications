@@ -1,0 +1,27 @@
+c:\users\tayyab\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+c:\users\tayyab\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+c:\users\tayyab\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+c:\users\tayyab\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Tayyab\Desktop\calculator own\calculator\bin\Debug\calculator.exe.config
+C:\Users\Tayyab\Desktop\calculator own\calculator\obj\Debug\calculator.exe
+C:\Users\Tayyab\Desktop\calculator own\calculator\obj\Debug\calculator.pdb
+C:\Users\Tayyab\Desktop\2nd semester\oop\OOP lab windows form\calculator own\calculator\bin\Debug\calculator.exe.config
+C:\Users\Tayyab\Desktop\2nd semester\oop\OOP lab windows form\calculator own\calculator\obj\Debug\calculator.exe
+C:\Users\Tayyab\Desktop\2nd semester\oop\OOP lab windows form\calculator own\calculator\obj\Debug\calculator.pdb
+C:\Users\Tayyab\Desktop\2nd semester\oop\OOP lab windows form\calculator own\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Tayyab\Desktop\2nd semester\oop\OOP lab windows form\calculator own\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Tayyab\Desktop\2nd semester\oop\OOP lab windows form\calculator own\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Tayyab\Desktop\2nd semester\oop\OOP lab windows form\calculator own\calculator\bin\Debug\calculator.exe
+C:\Users\Tayyab\Desktop\2nd semester\oop\OOP lab windows form\calculator own\calculator\bin\Debug\calculator.pdb
+C:\Users\Tayyab\Desktop\2nd semester\oop\OOP lab windows form\calculator own\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Tayyab\Desktop\calculator own\calculator\bin\Debug\calculator.exe
+C:\Users\Tayyab\Desktop\calculator own\calculator\bin\Debug\calculator.pdb
+C:\Users\Tayyab\Desktop\calculator own\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Tayyab\Desktop\calculator own\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Tayyab\Desktop\calculator own\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Tayyab\Desktop\calculator own\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
